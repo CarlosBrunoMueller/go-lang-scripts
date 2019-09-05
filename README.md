@@ -1,4 +1,4 @@
-# Socket.io Chat Example
+# GO Lang Scripts
 
 ## Objetivo
 
